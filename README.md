@@ -1,7 +1,5 @@
 # NodeMCU Temperature Reading
 
-![](https://raw.githubusercontent.com/safranhub/nodemcu_temperature_reading/master/nodemcu_temp_sensor.jpg)
-
 About the project:  
 Show temperature sensor reading every second in HomeAssistant that is installed on a PC (Windows 10).  
 If temperature is higher than 30 °C set Alarm on HomeAssistant to :( and turn on red LED.  
