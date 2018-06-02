@@ -32,7 +32,7 @@ HomeAssistant [setup](https://www.home-assistant.io/docs/installation/) (Windows
 ![](https://raw.githubusercontent.com/safranhub/nodemcu_temperature_reading/master/ds18b20.jpg)  
 
 ### Connected components scheme
-![](https://raw.githubusercontent.com/safranhub/nodemcu_temperature_reading/master/nodemcu_temperature_reading_fritzing.png) 
+![](https://raw.githubusercontent.com/safranhub/nodemcu_temperature_reading/master/nodemcu_temperature_reading_fritzing.png)
 
 ## HomeAssistant - configuration.yaml
 
