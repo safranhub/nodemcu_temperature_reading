@@ -217,5 +217,5 @@ After code has been uploaded NodeMCU should connect to WiFi and start sending da
 ![](https://raw.githubusercontent.com/safranhub/nodemcu_temperature_reading/master/atom_serial.jpg)
 
 Start HomeAssistant, open web browser and enter computer IP address + port 8123 to open HomeAssistant.  
-e.g. -> 192.168.x.x:8123  
+e.g. -> 192.168.0.113:8123  
 ![](https://raw.githubusercontent.com/safranhub/nodemcu_temperature_reading/master/hass.jpg)
